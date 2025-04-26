@@ -69,10 +69,10 @@
         </div>
     </header>
 
-    <section id="work">
+<section id="work">
         <h2>WORK EXPERIENCE</h2>
         
-        <div class="job">
+<div class="job">
             <h3><span class="job-title">BUSINESS ANALYST</span> | <span class="company">AIA SDN BHD</span></h3>
             <div class="date">Jul 2021 – Present</div>
             <ul>
@@ -83,7 +83,7 @@
             </ul>
         </div>
         
-        <div class="job">
+ <div class="job">
             <h3><span class="job-title">TECHNICAL ENGINEER</span> | <span class="company">PETA TECH SOLUTION SDN BHD</span></h3>
             <div class="date">Jan 2021 - Jul 2021</div>
             <ul>
@@ -93,10 +93,10 @@
         </div>
     </section>
 
-    <section id="education">
+<section id="education">
         <h2>EDUCATION</h2>
         
-        <div class="education-item">
+ <div class="education-item">
             <h3><span class="degree">Bachelor Degree of Engineering Technology in Electrical with Honours</span> | <span class="school">University Malaysia Pahang</span></h3>
             <ul>
                 <li>Major in electric and electronic engineering technology</li>
@@ -104,7 +104,7 @@
             </ul>
         </div>
         
-        <div class="education-item">
+ <div class="education-item">
             <h3><span class="degree">STPM Pre University Program</span> | <span class="school">SMK Taman Tasik</span></h3>
             <div class="date">June 2012 - Dec 2014</div>
             <ul>
@@ -116,7 +116,7 @@
         </div>
     </section>
 
-    <section id="projects">
+ <section id="projects">
         <h2>PROJECTS</h2>
         <h3>Motorised Wheelbarrow (Final Year Project)</h3>
         <ul>
@@ -126,7 +126,7 @@
         </ul>
     </section>
 
-    <section id="skills">
+<section id="skills">
         <h2>TECHNICAL SKILLS</h2>
         <div class="skills-container">
             <div class="skill-category">
@@ -137,14 +137,14 @@
                 </ul>
             </div>
             
-            <div class="skill-category">
+<div class="skill-category">
                 <h3>Engineering</h3>
                 <ul>
                     <li>Able to perform hand on skills</li>
                 </ul>
             </div>
             
-            <div class="skill-category">
+ <div class="skill-category">
                 <h3>Personal Skills</h3>
                 <ul>
                     <li>Fluent in Malay, Mandarin, Cantonese and English</li>
@@ -157,7 +157,7 @@
         </div>
     </section>
 
-    <section id="achievements">
+<section id="achievements">
         <h2>AWARDS & ACHIEVEMENTS</h2>
         <ul>
             <li>Dean's list</li>
